@@ -21,14 +21,14 @@ sites:
     url: https://compliance.com.co/
 
 site:
-  logoUrl: https://status.compliance.com.co/assets/favicon-compliance.png
+  logoUrl: https://raw.githubusercontent.com/Data-Innova/monitoreo-compliance/refs/heads/master/assets/favicon-compliance.png
   
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #baseUrl: /
   cname: status.compliance.com.co
-  logoUrl: https://status.compliance.com.co/assets/favicon-compliance.png
+  logoUrl: https://raw.githubusercontent.com/Data-Innova/monitoreo-compliance/refs/heads/master/assets/favicon-compliance.png
   name: Compliance - Status
   
   introTitle: "Estado de los Servicios de Compliance"
@@ -59,6 +59,3 @@ workflowSchedule:
   summary: "0 5 * * *"
   updates: "0 5 * * *"
   uptime: "*/5 * * * *"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
