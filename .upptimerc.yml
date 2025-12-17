@@ -4,12 +4,25 @@ repo: monitoreo-compliance # The name of this repository
 
 sites:
   - name: Compliance - Batch
+    group: Backend
     url: https://app.compliance.com.co/validador/healthBatch/healthChecks/health
   - name: Compliance - Web
+    group: Backend
     url: https://app.compliance.com.co/validador/apiPublica/healthChecks
   - name: Compliance - WebService
+    group: Backend
     url: https://app.compliance.com.co/validador/healthWs/healthChecks
     
+  - name: Compliance - App Web
+    group: Frontend
+    url: https://validador.compliance.com.co/
+  - name: Compliance - Pagina Web
+    group: Frontend
+    url: https://compliance.com.co/
+
+site:
+  logoUrl: https://validador.compliance.com.co/assets/images/favicon-compliance.png
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -22,7 +35,14 @@ status-website:
   navbar:
     - title: Status
       href: /
-
+    
+theme:
+  name: light
+  primaryColor: "#1E3A8A"
+  secondaryColor: "#2563EB"
+  backgroundColor: "#F8FAFC"
+  textColor: "#0F172A"
+  
 workflowSchedule:
   graphs: "0 5 * * *"
   responseTime: "0 23 * * *"
