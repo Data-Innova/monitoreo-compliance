@@ -12,12 +12,12 @@
 # * Source: https://github.com/upptime/upptime
 # * Docs and more: https://upptime.js.org
 # * More by Anand Chowdhary: https://anandchowdhary.com
-#
+
 
 name: Graphs CI
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 5 * * *"
   repository_dispatch:
     types: [graphs]
   workflow_dispatch:
