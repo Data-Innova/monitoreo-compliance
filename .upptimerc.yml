@@ -20,7 +20,7 @@ status-website:
   introMessage: Status de servicios generales de [Compliance](https://www.compliance.com.co/).
   navbar:
     - title: Status
-      href: /monitoreo-compliance
+      href: /
 
 workflowSchedule:
   graphs: "0 5 * * *"
