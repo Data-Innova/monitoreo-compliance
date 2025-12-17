@@ -13,13 +13,13 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /monitoreo-compliance
+  #baseUrl: /
   logoUrl: https://validador.compliance.com.co/assets/images/favicon-compliance.png
   name: Compliance - Status
   introTitle: "Servicios de Compliance, powered entirely by GitHub."
   introMessage: Status de servicios generales de [Compliance](https://www.compliance.com.co/).
   navbar:
-    - title: Status
+    - title: Statusstatus.compliance.com.co
       href: /
 
 workflowSchedule:
