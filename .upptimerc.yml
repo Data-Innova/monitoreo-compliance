@@ -6,14 +6,14 @@ sites:
   - name: Compliance - Batch
     group: Backend
     url: https://app.compliance.com.co/validador/healthBatch/healthChecks/health
-  - name: Compliance - Web
+  - name: Compliance - Back Web
     group: Backend
     url: https://app.compliance.com.co/validador/apiPublica/healthChecks
   - name: Compliance - WebService
     group: Backend
     url: https://app.compliance.com.co/validador/healthWs/healthChecks
     
-  - name: Compliance - App Web
+  - name: Compliance - Front Web
     group: Frontend
     url: https://validador.compliance.com.co/
   - name: Compliance - Pagina Web
