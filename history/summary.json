@@ -4,19 +4,19 @@
     "url": "https://app.compliance.com.co/validador/healthBatch/healthChecks/health",
     "icon": "https://icons.duckduckgo.com/ip3/app.compliance.com.co.ico",
     "slug": "compliance-batch",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 260,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
+    "time": 259,
     "timeDay": 190,
-    "timeWeek": 349,
-    "timeMonth": 260,
-    "timeYear": 260,
+    "timeWeek": 348,
+    "timeMonth": 259,
+    "timeYear": 259,
     "dailyMinutesDown": {
-      "2026-01-05": 0
+      "2026-01-05": 47
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://app.compliance.com.co/validador/apiPublica/healthChecks",
     "icon": "https://icons.duckduckgo.com/ip3/app.compliance.com.co.ico",
     "slug": "compliance-back-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 34,
     "timeDay": 35,
     "timeWeek": 33,
     "timeMonth": 34,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2026-01-05": 0
+      "2026-01-05": 47
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://app.compliance.com.co/validador/healthWs/healthChecks",
     "icon": "https://icons.duckduckgo.com/ip3/app.compliance.com.co.ico",
     "slug": "compliance-web-service",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "96.72%",
+    "uptimeWeek": "99.53%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 34,
     "timeDay": 32,
     "timeWeek": 32,
     "timeMonth": 34,
     "timeYear": 34,
     "dailyMinutesDown": {
-      "2026-01-05": 0
+      "2026-01-05": 47
     }
   },
   {
@@ -90,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 671,
     "timeDay": 608,
-    "timeWeek": 643,
+    "timeWeek": 642,
     "timeMonth": 671,
     "timeYear": 671,
     "dailyMinutesDown": {}
