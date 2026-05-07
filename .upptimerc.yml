@@ -3,12 +3,15 @@ owner: Data-Innova # Your GitHub organization or username, where this repository
 repo: monitoreo-compliance # The name of this repository
 
 sites:
-  - name: Compliance - Batch
-    group: Backend
-    url: https://app.compliance.com.co/validador/healthBatch/healthChecks/health
   - name: Compliance - Back Web
     group: Backend
     url: https://app.compliance.com.co/validador/apiPublica/healthChecks
+  - name: Compliance - Batch
+    group: Backend
+    url: https://app.compliance.com.co/validador/healthBatch/healthChecks/health
+  - name: Compliance - Batch Caller
+    group: Backend
+    url: https://app.compliance.com.co/validador/healthBatchCaller/healthChecks/health
   - name: Compliance - WebService
     group: Backend
     url: https://app.compliance.com.co/validador/healthWs/healthChecks
@@ -54,7 +57,7 @@ status-website:
   
 workflowSchedule:
   graphs: "0/2 * * * *"
-  responseTime: "*/15 * * * *"
+  responseTime: "*/5 * * * *"
   staticSite: "0 5 * * *"
   summary: "0 5 * * *"
   updates: "0 5 * * *"
