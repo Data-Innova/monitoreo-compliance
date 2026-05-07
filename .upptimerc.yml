@@ -32,6 +32,7 @@ status-website:
   #baseUrl: /
   cname: status.compliance.com.co
   logoUrl: https://raw.githubusercontent.com/Data-Innova/monitoreo-compliance/refs/heads/master/assets/favicon-compliance.png
+  favicon: https://raw.githubusercontent.com/Data-Innova/monitoreo-compliance/refs/heads/master/assets/favicon.png
   name: Compliance - Status
   
   introTitle: "Estado de los Servicios de Compliance"
