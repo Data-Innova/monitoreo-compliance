@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 72,
-    "timeDay": 178,
-    "timeWeek": 180,
-    "timeMonth": 189,
+    "timeDay": 186,
+    "timeWeek": 183,
+    "timeMonth": 190,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2026-01-05": 47,
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 288,
-    "timeDay": 197,
-    "timeWeek": 174,
+    "timeDay": 202,
+    "timeWeek": 175,
     "timeMonth": 242,
     "timeYear": 288,
     "dailyMinutesDown": {
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
-    "timeDay": 175,
-    "timeWeek": 172,
+    "timeDay": 182,
+    "timeWeek": 173,
     "timeMonth": 181,
     "timeYear": 189,
     "dailyMinutesDown": {}
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 52,
-    "timeDay": 162,
-    "timeWeek": 159,
+    "timeDay": 169,
+    "timeWeek": 161,
     "timeMonth": 160,
     "timeYear": 52,
     "dailyMinutesDown": {
@@ -100,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 221,
-    "timeWeek": 214,
-    "timeMonth": 209,
+    "timeDay": 229,
+    "timeWeek": 216,
+    "timeMonth": 210,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -111,16 +111,16 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "86.80%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "86.80%",
     "time": 592,
-    "timeDay": 527,
-    "timeWeek": 484,
-    "timeMonth": 476,
+    "timeDay": 506,
+    "timeWeek": 481,
+    "timeMonth": 475,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2026-01-14": 373,
@@ -154,7 +154,7 @@
       "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 568,
-      "2026-07-14": 2
+      "2026-07-14": 16
     }
   }
 ]
