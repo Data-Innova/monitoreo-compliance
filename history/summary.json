@@ -81,7 +81,7 @@
     "time": 59,
     "timeDay": 166,
     "timeWeek": 170,
-    "timeMonth": 168,
+    "timeMonth": 167,
     "timeYear": 59,
     "dailyMinutesDown": {
       "2026-01-05": 47,
@@ -102,7 +102,7 @@
     "time": 227,
     "timeDay": 225,
     "timeWeek": 231,
-    "timeMonth": 220,
+    "timeMonth": 219,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -111,16 +111,16 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
-    "uptime": "87.79%",
-    "uptimeDay": "95.04%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "98.85%",
-    "uptimeYear": "87.79%",
+    "status": "up",
+    "uptime": "87.78%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "98.75%",
+    "uptimeYear": "87.78%",
     "time": 588,
-    "timeDay": 292,
+    "timeDay": 306,
     "timeWeek": 486,
-    "timeMonth": 502,
+    "timeMonth": 501,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2026-01-14": 373,
@@ -161,7 +161,7 @@
       "2026-07-24": 101,
       "2026-08-01": 20,
       "2026-08-02": 248,
-      "2026-08-03": 18
+      "2026-08-03": 61
     }
   }
 ]
