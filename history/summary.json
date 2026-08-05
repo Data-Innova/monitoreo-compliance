@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 79,
-    "timeDay": 207,
-    "timeWeek": 201,
+    "timeDay": 203,
+    "timeWeek": 200,
     "timeMonth": 201,
     "timeYear": 79,
     "dailyMinutesDown": {
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 282,
-    "timeDay": 195,
-    "timeWeek": 187,
+    "timeDay": 191,
+    "timeWeek": 186,
     "timeMonth": 236,
     "timeYear": 282,
     "dailyMinutesDown": {
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 239,
-    "timeDay": 183,
-    "timeWeek": 199,
-    "timeMonth": 319,
-    "timeYear": 239,
+    "time": 238,
+    "timeDay": 185,
+    "timeWeek": 198,
+    "timeMonth": 320,
+    "timeYear": 238,
     "dailyMinutesDown": {}
   },
   {
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 59,
-    "timeDay": 163,
-    "timeWeek": 170,
+    "timeDay": 161,
+    "timeWeek": 167,
     "timeMonth": 170,
     "timeYear": 59,
     "dailyMinutesDown": {
@@ -100,7 +100,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 276,
+    "timeDay": 273,
     "timeWeek": 237,
     "timeMonth": 225,
     "timeYear": 228,
@@ -111,16 +111,16 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
-    "uptime": "87.71%",
-    "uptimeDay": "71.67%",
-    "uptimeWeek": "91.20%",
+    "status": "down",
+    "uptime": "87.72%",
+    "uptimeDay": "71.93%",
+    "uptimeWeek": "91.23%",
     "uptimeMonth": "97.48%",
-    "uptimeYear": "87.71%",
+    "uptimeYear": "87.72%",
     "time": 588,
-    "timeDay": 473,
-    "timeWeek": 490,
-    "timeMonth": 514,
+    "timeDay": 424,
+    "timeWeek": 485,
+    "timeMonth": 512,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2026-01-14": 373,
@@ -163,7 +163,7 @@
       "2026-08-02": 248,
       "2026-08-03": 118,
       "2026-08-04": 175,
-      "2026-08-05": 325
+      "2026-08-05": 322
     }
   }
 ]
