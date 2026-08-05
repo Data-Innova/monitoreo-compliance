@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 79,
-    "timeDay": 224,
-    "timeWeek": 204,
+    "timeDay": 229,
+    "timeWeek": 203,
     "timeMonth": 201,
     "timeYear": 79,
     "dailyMinutesDown": {
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 282,
-    "timeDay": 203,
-    "timeWeek": 190,
-    "timeMonth": 236,
+    "timeDay": 202,
+    "timeWeek": 187,
+    "timeMonth": 237,
     "timeYear": 282,
     "dailyMinutesDown": {
       "2026-01-05": 47,
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 194,
-    "timeWeek": 203,
+    "timeDay": 193,
+    "timeWeek": 200,
     "timeMonth": 319,
     "timeYear": 239,
     "dailyMinutesDown": {}
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 59,
-    "timeDay": 172,
-    "timeWeek": 173,
+    "timeDay": 167,
+    "timeWeek": 170,
     "timeMonth": 171,
     "timeYear": 59,
     "dailyMinutesDown": {
@@ -100,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 288,
-    "timeWeek": 242,
-    "timeMonth": 225,
+    "timeDay": 293,
+    "timeWeek": 238,
+    "timeMonth": 226,
     "timeYear": 228,
     "dailyMinutesDown": {}
   },
@@ -111,16 +111,16 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
-    "uptime": "87.70%",
-    "uptimeDay": "72.04%",
-    "uptimeWeek": "91.25%",
-    "uptimeMonth": "97.49%",
-    "uptimeYear": "87.70%",
+    "status": "down",
+    "uptime": "87.71%",
+    "uptimeDay": "71.90%",
+    "uptimeWeek": "91.23%",
+    "uptimeMonth": "97.48%",
+    "uptimeYear": "87.71%",
     "time": 588,
-    "timeDay": 476,
-    "timeWeek": 496,
-    "timeMonth": 513,
+    "timeDay": 454,
+    "timeWeek": 488,
+    "timeMonth": 512,
     "timeYear": 588,
     "dailyMinutesDown": {
       "2026-01-14": 373,
@@ -163,7 +163,7 @@
       "2026-08-02": 248,
       "2026-08-03": 118,
       "2026-08-04": 175,
-      "2026-08-05": 320
+      "2026-08-05": 322
     }
   }
 ]
