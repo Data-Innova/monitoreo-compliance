@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 83,
-    "timeDay": 169,
-    "timeWeek": 191,
+    "timeDay": 181,
+    "timeWeek": 192,
     "timeMonth": 193,
     "timeYear": 83,
     "dailyMinutesDown": {
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 278,
-    "timeDay": 148,
-    "timeWeek": 176,
+    "timeDay": 160,
+    "timeWeek": 177,
     "timeMonth": 178,
     "timeYear": 278,
     "dailyMinutesDown": {
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 148,
-    "timeWeek": 178,
+    "timeDay": 157,
+    "timeWeek": 179,
     "timeMonth": 289,
     "timeYear": 230,
     "dailyMinutesDown": {}
@@ -79,7 +79,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 63,
-    "timeDay": 140,
+    "timeDay": 147,
     "timeWeek": 167,
     "timeMonth": 170,
     "timeYear": 63,
@@ -100,8 +100,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 183,
-    "timeWeek": 226,
+    "timeDay": 193,
+    "timeWeek": 227,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -111,16 +111,16 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
-    "uptime": "87.67%",
-    "uptimeDay": "87.64%",
-    "uptimeWeek": "85.63%",
+    "status": "down",
+    "uptime": "87.68%",
+    "uptimeDay": "91.34%",
+    "uptimeWeek": "85.64%",
     "uptimeMonth": "94.00%",
-    "uptimeYear": "87.67%",
+    "uptimeYear": "87.68%",
     "time": 583,
-    "timeDay": 395,
-    "timeWeek": 438,
-    "timeMonth": 486,
+    "timeDay": 412,
+    "timeWeek": 440,
+    "timeMonth": 485,
     "timeYear": 583,
     "dailyMinutesDown": {
       "2026-01-14": 373,
@@ -170,7 +170,7 @@
       "2026-08-10": 230,
       "2026-08-11": 299,
       "2026-08-12": 202,
-      "2026-08-13": 110
+      "2026-08-13": 109
     }
   }
 ]
