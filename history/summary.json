@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 84,
-    "timeDay": 182,
-    "timeWeek": 198,
+    "timeDay": 193,
+    "timeWeek": 200,
     "timeMonth": 197,
     "timeYear": 84,
     "dailyMinutesDown": {
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 278,
-    "timeDay": 174,
-    "timeWeek": 174,
+    "timeDay": 180,
+    "timeWeek": 175,
     "timeMonth": 178,
     "timeYear": 278,
     "dailyMinutesDown": {
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 172,
-    "timeWeek": 173,
+    "timeDay": 179,
+    "timeWeek": 174,
     "timeMonth": 286,
     "timeYear": 228,
     "dailyMinutesDown": {}
@@ -79,7 +79,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 63,
-    "timeDay": 164,
+    "timeDay": 171,
     "timeWeek": 164,
     "timeMonth": 170,
     "timeYear": 63,
@@ -100,8 +100,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 215,
-    "timeWeek": 221,
+    "timeDay": 225,
+    "timeWeek": 223,
     "timeMonth": 227,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -111,15 +111,15 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
-    "uptime": "87.53%",
-    "uptimeDay": "57.57%",
-    "uptimeWeek": "80.64%",
-    "uptimeMonth": "92.32%",
-    "uptimeYear": "87.53%",
+    "status": "down",
+    "uptime": "87.54%",
+    "uptimeDay": "58.42%",
+    "uptimeWeek": "80.76%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "87.54%",
     "time": 583,
-    "timeDay": 521,
-    "timeWeek": 445,
+    "timeDay": 520,
+    "timeWeek": 444,
     "timeMonth": 486,
     "timeYear": 583,
     "dailyMinutesDown": {
@@ -171,7 +171,7 @@
       "2026-08-11": 299,
       "2026-08-12": 202,
       "2026-08-13": 247,
-      "2026-08-14": 611
+      "2026-08-14": 599
     }
   }
 ]
