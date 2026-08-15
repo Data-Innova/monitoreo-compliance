@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 84,
-    "timeDay": 169,
-    "timeWeek": 198,
+    "timeDay": 171,
+    "timeWeek": 199,
     "timeMonth": 196,
     "timeYear": 84,
     "dailyMinutesDown": {
@@ -35,7 +35,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 277,
-    "timeDay": 154,
+    "timeDay": 155,
     "timeWeek": 174,
     "timeMonth": 177,
     "timeYear": 277,
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 249,
-    "timeWeek": 198,
+    "timeDay": 251,
+    "timeWeek": 199,
     "timeMonth": 287,
     "timeYear": 230,
     "dailyMinutesDown": {}
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 64,
-    "timeDay": 147,
-    "timeWeek": 162,
+    "timeDay": 151,
+    "timeWeek": 163,
     "timeMonth": 169,
     "timeYear": 64,
     "dailyMinutesDown": {
@@ -100,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 193,
-    "timeWeek": 221,
-    "timeMonth": 224,
+    "timeDay": 197,
+    "timeWeek": 222,
+    "timeMonth": 225,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -111,15 +111,15 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
-    "uptime": "87.51%",
-    "uptimeDay": "79.13%",
-    "uptimeWeek": "79.46%",
-    "uptimeMonth": "91.85%",
-    "uptimeYear": "87.51%",
+    "status": "down",
+    "uptime": "87.52%",
+    "uptimeDay": "83.00%",
+    "uptimeWeek": "79.74%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "87.52%",
     "time": 582,
-    "timeDay": 497,
-    "timeWeek": 452,
+    "timeDay": 499,
+    "timeWeek": 457,
     "timeMonth": 486,
     "timeYear": 582,
     "dailyMinutesDown": {
@@ -172,7 +172,7 @@
       "2026-08-12": 202,
       "2026-08-13": 247,
       "2026-08-14": 622,
-      "2026-08-15": 197
+      "2026-08-15": 193
     }
   }
 ]
