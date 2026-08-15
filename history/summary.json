@@ -12,7 +12,7 @@
     "uptimeYear": "99.91%",
     "time": 85,
     "timeDay": 206,
-    "timeWeek": 209,
+    "timeWeek": 208,
     "timeMonth": 197,
     "timeYear": 85,
     "dailyMinutesDown": {
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 277,
-    "timeDay": 169,
-    "timeWeek": 179,
-    "timeMonth": 178,
+    "timeDay": 168,
+    "timeWeek": 178,
+    "timeMonth": 177,
     "timeYear": 277,
     "dailyMinutesDown": {
       "2026-01-05": 47,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 262,
-    "timeWeek": 202,
-    "timeMonth": 286,
-    "timeYear": 230,
+    "time": 229,
+    "timeDay": 258,
+    "timeWeek": 201,
+    "timeMonth": 285,
+    "timeYear": 229,
     "dailyMinutesDown": {}
   },
   {
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 64,
-    "timeDay": 162,
-    "timeWeek": 167,
+    "timeDay": 160,
+    "timeWeek": 166,
     "timeMonth": 169,
     "timeYear": 64,
     "dailyMinutesDown": {
@@ -100,8 +100,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 210,
-    "timeWeek": 226,
+    "timeDay": 207,
+    "timeWeek": 224,
     "timeMonth": 225,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -111,15 +111,15 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
-    "uptime": "87.52%",
-    "uptimeDay": "82.78%",
-    "uptimeWeek": "79.53%",
-    "uptimeMonth": "91.79%",
-    "uptimeYear": "87.52%",
+    "status": "up",
+    "uptime": "87.51%",
+    "uptimeDay": "82.83%",
+    "uptimeWeek": "79.37%",
+    "uptimeMonth": "91.76%",
+    "uptimeYear": "87.51%",
     "time": 582,
-    "timeDay": 483,
-    "timeWeek": 451,
+    "timeDay": 488,
+    "timeWeek": 452,
     "timeMonth": 486,
     "timeYear": 582,
     "dailyMinutesDown": {
@@ -172,7 +172,7 @@
       "2026-08-12": 202,
       "2026-08-13": 247,
       "2026-08-14": 622,
-      "2026-08-15": 224
+      "2026-08-15": 240
     }
   }
 ]
