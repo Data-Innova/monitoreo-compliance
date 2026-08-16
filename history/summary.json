@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 86,
-    "timeDay": 214,
+    "timeDay": 215,
     "timeWeek": 202,
     "timeMonth": 197,
     "timeYear": 86,
@@ -61,7 +61,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 182,
+    "timeDay": 183,
     "timeWeek": 198,
     "timeMonth": 200,
     "timeYear": 228,
@@ -80,7 +80,7 @@
     "uptimeYear": "99.98%",
     "time": 65,
     "timeDay": 164,
-    "timeWeek": 162,
+    "timeWeek": 163,
     "timeMonth": 168,
     "timeYear": 65,
     "dailyMinutesDown": {
@@ -102,7 +102,7 @@
     "time": 227,
     "timeDay": 219,
     "timeWeek": 215,
-    "timeMonth": 224,
+    "timeMonth": 225,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -111,15 +111,15 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "87.53%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "80.74%",
-    "uptimeMonth": "91.70%",
+    "uptimeDay": "89.25%",
+    "uptimeWeek": "80.69%",
+    "uptimeMonth": "91.69%",
     "uptimeYear": "87.53%",
     "time": 581,
     "timeDay": 499,
-    "timeWeek": 472,
+    "timeWeek": 470,
     "timeMonth": 486,
     "timeYear": 581,
     "dailyMinutesDown": {
@@ -173,7 +173,7 @@
       "2026-08-13": 247,
       "2026-08-14": 622,
       "2026-08-15": 240,
-      "2026-08-16": 102
+      "2026-08-16": 106
     }
   }
 ]
