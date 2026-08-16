@@ -12,8 +12,8 @@
     "uptimeYear": "99.91%",
     "time": 85,
     "timeDay": 207,
-    "timeWeek": 210,
-    "timeMonth": 198,
+    "timeWeek": 209,
+    "timeMonth": 197,
     "timeYear": 85,
     "dailyMinutesDown": {
       "2026-01-05": 47,
@@ -35,8 +35,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 276,
-    "timeDay": 169,
-    "timeWeek": 180,
+    "timeDay": 171,
+    "timeWeek": 181,
     "timeMonth": 178,
     "timeYear": 276,
     "dailyMinutesDown": {
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 229,
-    "timeDay": 266,
-    "timeWeek": 204,
+    "timeDay": 269,
+    "timeWeek": 205,
     "timeMonth": 201,
     "timeYear": 229,
     "dailyMinutesDown": {}
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 65,
-    "timeDay": 162,
-    "timeWeek": 168,
+    "timeDay": 164,
+    "timeWeek": 169,
     "timeMonth": 169,
     "timeYear": 65,
     "dailyMinutesDown": {
@@ -100,8 +100,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 214,
-    "timeWeek": 227,
+    "timeDay": 217,
+    "timeWeek": 228,
     "timeMonth": 226,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -111,15 +111,15 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
-    "uptime": "87.52%",
-    "uptimeDay": "91.62%",
-    "uptimeWeek": "79.98%",
-    "uptimeMonth": "91.88%",
-    "uptimeYear": "87.52%",
+    "status": "up",
+    "uptime": "87.51%",
+    "uptimeDay": "89.49%",
+    "uptimeWeek": "79.68%",
+    "uptimeMonth": "91.81%",
+    "uptimeYear": "87.51%",
     "time": 582,
-    "timeDay": 528,
-    "timeWeek": 460,
+    "timeDay": 524,
+    "timeWeek": 459,
     "timeMonth": 488,
     "timeYear": 582,
     "dailyMinutesDown": {
@@ -173,7 +173,7 @@
       "2026-08-13": 247,
       "2026-08-14": 622,
       "2026-08-15": 240,
-      "2026-08-16": 26
+      "2026-08-16": 56
     }
   }
 ]
