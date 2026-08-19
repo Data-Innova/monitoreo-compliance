@@ -111,14 +111,14 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
-    "uptime": "87.52%",
-    "uptimeDay": "91.03%",
-    "uptimeWeek": "82.34%",
-    "uptimeMonth": "90.40%",
-    "uptimeYear": "87.52%",
+    "status": "up",
+    "uptime": "87.51%",
+    "uptimeDay": "90.35%",
+    "uptimeWeek": "82.25%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "87.51%",
     "time": 579,
-    "timeDay": 496,
+    "timeDay": 498,
     "timeWeek": 485,
     "timeMonth": 477,
     "timeYear": 579,
@@ -176,7 +176,7 @@
       "2026-08-16": 137,
       "2026-08-17": 257,
       "2026-08-18": 165,
-      "2026-08-19": 112
+      "2026-08-19": 122
     }
   }
 ]
