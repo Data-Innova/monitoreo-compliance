@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 93,
-    "timeDay": 184,
-    "timeWeek": 219,
+    "timeDay": 185,
+    "timeWeek": 220,
     "timeMonth": 206,
     "timeYear": 93,
     "dailyMinutesDown": {
@@ -36,8 +36,8 @@
     "uptimeYear": "99.94%",
     "time": 271,
     "timeDay": 177,
-    "timeWeek": 177,
-    "timeMonth": 178,
+    "timeWeek": 178,
+    "timeMonth": 177,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2026-01-05": 47,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 220,
-    "timeDay": 168,
-    "timeWeek": 182,
+    "time": 219,
+    "timeDay": 169,
+    "timeWeek": 183,
     "timeMonth": 188,
-    "timeYear": 220,
+    "timeYear": 219,
     "dailyMinutesDown": {}
   },
   {
@@ -78,11 +78,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 70,
-    "timeDay": 170,
-    "timeWeek": 164,
+    "time": 71,
+    "timeDay": 172,
+    "timeWeek": 165,
     "timeMonth": 165,
-    "timeYear": 70,
+    "timeYear": 71,
     "dailyMinutesDown": {
       "2026-01-05": 47,
       "2026-02-27": 20
@@ -100,9 +100,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 218,
-    "timeWeek": 218,
-    "timeMonth": 223,
+    "timeDay": 223,
+    "timeWeek": 220,
+    "timeMonth": 222,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -111,16 +111,16 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "91.35%",
-    "uptimeMonth": "89.68%",
-    "uptimeYear": "98.73%",
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "97.37%",
+    "uptimeWeek": "91.45%",
+    "uptimeMonth": "89.70%",
+    "uptimeYear": "98.74%",
     "time": 577,
-    "timeDay": 572,
-    "timeWeek": 503,
-    "timeMonth": 484,
+    "timeDay": 584,
+    "timeWeek": 506,
+    "timeMonth": 485,
     "timeYear": 577,
     "dailyMinutesDown": {
       "2026-07-20": 21,
@@ -146,7 +146,7 @@
       "2026-08-20": 88,
       "2026-08-21": 40,
       "2026-08-22": 108,
-      "2026-08-23": 48
+      "2026-08-23": 38
     }
   }
 ]
