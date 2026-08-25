@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 94,
-    "timeDay": 186,
+    "timeDay": 189,
     "timeWeek": 220,
     "timeMonth": 204,
     "timeYear": 94,
@@ -35,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 270,
-    "timeDay": 174,
+    "timeDay": 177,
     "timeWeek": 176,
-    "timeMonth": 176,
+    "timeMonth": 177,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2026-01-05": 47,
@@ -61,8 +61,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 218,
-    "timeDay": 181,
-    "timeWeek": 172,
+    "timeDay": 183,
+    "timeWeek": 173,
     "timeMonth": 187,
     "timeYear": 218,
     "dailyMinutesDown": {}
@@ -79,8 +79,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 72,
-    "timeDay": 162,
-    "timeWeek": 164,
+    "timeDay": 165,
+    "timeWeek": 165,
     "timeMonth": 164,
     "timeYear": 72,
     "dailyMinutesDown": {
@@ -100,8 +100,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 211,
-    "timeWeek": 216,
+    "timeDay": 215,
+    "timeWeek": 217,
     "timeMonth": 221,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -111,16 +111,16 @@
     "url": "https://compliance.com.co/",
     "icon": "https://icons.duckduckgo.com/ip3/compliance.com.co.ico",
     "slug": "compliance-pagina-web",
-    "status": "down",
+    "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "94.34%",
-    "uptimeMonth": "89.72%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "94.18%",
+    "uptimeMonth": "89.68%",
     "uptimeYear": "98.75%",
     "time": 576,
-    "timeDay": 492,
-    "timeWeek": 512,
-    "timeMonth": 486,
+    "timeDay": 495,
+    "timeWeek": 513,
+    "timeMonth": 487,
     "timeYear": 576,
     "dailyMinutesDown": {
       "2026-08-02": 248,
@@ -145,7 +145,7 @@
       "2026-08-22": 108,
       "2026-08-23": 36,
       "2026-08-24": 93,
-      "2026-08-25": 23
+      "2026-08-25": 39
     }
   }
 ]
